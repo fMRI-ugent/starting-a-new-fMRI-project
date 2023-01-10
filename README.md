@@ -1,4 +1,4 @@
-# starting-a-new-fMRI-project
+# Starting-a-new-fMRI-project
 Info about the first steps to do when starting a new fMRI project:get feedback on your design & ethical submission
 
 ---
