@@ -6,17 +6,16 @@ Info about the first steps to do when starting a new fMRI project:get feedback o
 
 #### Once your experimental design is almost ready, it would be good to present it to our fMRI community to get feedbacks and suggestions about it. 
  
+```diff
+@@ You find in the current section the template for such presentation (both in .pptx and in .key formats)@@
+```
+
 The format of these presentations should be:
 - a short introduction of your experimental hypothesis and questions you want to address
 - a more detailed description of your experimental design
 - an overview of your expected results and how these will support or not your hypothesis
 
 for a total length of 15/20 minutes.
-
-```diff
-@@ You find in the current section the template for such presentation (both in .pptx and in .key formats)@@
-```
-
 
 Having feedback and suggestions from other fMRI experts at this early stage of your experiment will help you to improve your design before the MRI acquisition starts and to decrease the possibility of regretting your choices once you will be analysing your data or writing your papers! 
  
