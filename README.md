@@ -13,7 +13,8 @@ The format of these presentations should be:
 
 for a total length of 15/20 minutes.
 
-'''c You find in the current section the template for such presentation (both in .pptx and in .key formats)'''
+c 
+You find in the current section the template for such presentation (both in .pptx and in .key formats)
 
 Having feedback and suggestions from other fMRI experts at this early stage of your experiment will help you to improve your design before the MRI acquisition starts and to decrease the possibility of regretting your choices once you will be analysing your data or writing your papers! 
  
