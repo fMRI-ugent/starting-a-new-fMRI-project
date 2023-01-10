@@ -14,7 +14,7 @@ The format of these presentations should be:
 for a total length of 15/20 minutes.
 
 ```diff
-@ You find in the current section the template for such presentation (both in .pptx and in .key formats)@
+@@ You find in the current section the template for such presentation (both in .pptx and in .key formats)@@
 ```
 
 
