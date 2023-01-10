@@ -18,7 +18,7 @@ for a total length of 15/20 minutes.
 + text in green
 ! text in orange
 # text in gray
-@@ You find in the current section the template for such presentation (both in .pptx and in .key formats)
+@@ You find in the current section the template for such presentation (both in .pptx and in .key formats)@@ 
 ```
 
 You find in the current section the template for such presentation (both in .pptx and in .key formats)
