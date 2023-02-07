@@ -30,8 +30,8 @@ Contact the fMRI support postdoc Stefania Mattioni (stefania.mattioni@ugent.be),
 #### When you start a new project or experiment you need to get an ethical approval.
 
 This can be done through the Hiruz website:
-- Go to the website of hiruz [https://hiruz.be/] and click the research portal, which is the new platform for ethical approval [https://hiruz.be/research-portal/].
-- The info on how to register to the portal and get access are here: [https://uzgent.be/over-uz-gent/organisatie/commissie-voor-medische-ethiek/onderzoeksportaal/hoe-krijg-ik-toegang-tot-het-onderzoeksportaal] (only in dutch!!)
+- Go to the [website of hiruz](https://hiruz.be/) and click the research portal, which is the new [platform for ethical approval] [https://hiruz.be/research-portal/].
+- The info on how to register to the portal and get access are [here](https://uzgent.be/over-uz-gent/organisatie/commissie-voor-medische-ethiek/onderzoeksportaal/hoe-krijg-ik-toegang-tot-het-onderzoeksportaal) (only in dutch!!)
 
 
 ---
@@ -41,14 +41,14 @@ This can be done through the Hiruz website:
 ###  *MRI Safety Course*
 Contact the GIfMI research assistant Stephanie Bogaert - Stephanie.Bogaert@UZGent.be
 This is a mandatory course to learn which are the risks in the magnetic resonance environment and how to avoid them.
-Here is a guidance paper on MR safe practices: http://gifmi.ugent.be/drupal/system/files/documents/Greenberg_et_al_JMRI_2019.pdf
+Here is a [guidance paper on MR safe practices](http://gifmi.ugent.be/drupal/system/files/documents/Greenberg_et_al_JMRI_2019.pdf)
 
 ### *Create  a user account on the GIfMI website* 
-You can find info on how to create your GIfMI account here: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_user_account_EN.pdf
+You can find info on how to create your GIfMI account [here](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_user_account_EN.pdf)
 
 ### *Submit the GIfMI Study Proposal Form to the Site Menager*
 The GIfMI site manager is Pieter Vandemaele (Pieter.Vandemaele@UGent.be).
-You can find the Study Proposal Form here: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_study_proposal_form_EN.pdf
+You can find the [Study Proposal Form here](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_study_proposal_form_EN.pdf)
 After the acceptance of your study proposal you will get a GSB number for your project (used for all comunication and booking). 
 
 ### *Book your slot for Technical test and protocol tuning* 
@@ -56,9 +56,9 @@ Contact the GIfMI site menager Pieter Vandemaele - Pieter.Vandemaele@UGent.be to
 During this time (free of charge) Pieter Vandemaele will set your scanning protocol and will help you with all the technical test (trigger, button box, etc..)  
 
 ### *Book your scanning time* 
-Here you can find the GIfMI booking Policy [http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_booking_policy_EN.pdf]
+Here you can find the [GIfMI booking Policy] [http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_booking_policy_EN.pdf]
 The last section (Rates per reserved hours) of this document is not up to date. The scanning price is going to increase soon: more detailed info will come soon!
-How to book the scanning time? Here you find detailed explanations: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_booking_manual_EN.pdf
+How to book the scanning time? [Here you find detailed explanations](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_booking_manual_EN.pdf)
 
 ### *Practical info, forms and manuals for MRI scanning at GIfMI*
 
