@@ -14,7 +14,6 @@ Info about the first steps to do when starting a new fMRI project:
 https://github.com/fMRI-ugent/starting-a-new-fMRI-project/blob/main/Template_fMRInewDesign.key**
 </p>
 
-[link](https://github.com/fMRI-ugent/starting-a-new-fMRI-project/blob/main/Template_fMRInewDesign.key)
 The format of these presentations should be:
 - a short introduction of your experimental hypothesis and questions you want to address
 - a more detailed description of your experimental design
@@ -65,10 +64,10 @@ How to book the scanning time? Here you find detailed explanations: http://gifmi
 ### *Practical info, forms and manuals for MRI scanning at GIfMI*
 
 
-- __Manual for users of GIfMI facility with many detailed info on participant positioning, data acquisition, data transfering: *READ IT BEFORE STARTING YOUR FIRST MRI EXPERIMENT!!* [http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_MRI%20user%20manual_BASIC_SiemensPrisma_EN.pdf]__
-- Description of the use of the available audio systems: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_audio_systems_EN.pdf
-- Tutorial on exporting protocol parameters to a pdf file: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_printing_protocols_EN.pdf
-- Form to be completed to receive a badge to access the GIfMI facility: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_badge_application_form_EN.pdf
-- Form to be completed to receive a key to access the GIfMI facility: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_key_application_form_EN.pdf
-- GIfMI MRI Safety Checklist - Pre Scan: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_3T_pre_checklist_researchers_EN.pdf
-- GIfMI MRI Safety Checklist - Post Scan: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_3T_pre_checklist_EN.pdf
+- __[Manual](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_MRI%20user%20manual_BASIC_SiemensPrisma_EN.pdf) for users of GIfMI facility with many detailed info on participant positioning, data acquisition, data transfering: *READ IT BEFORE STARTING YOUR FIRST MRI EXPERIMENT!!* __
+- [Description of the use of the available audio systems](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_audio_systems_EN.pdf)
+- [Tutorial on exporting protocol parameters to a pdf file](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_printing_protocols_EN.pdf)
+- [Form to be completed to receive a badge to access the GIfMI facility](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_badge_application_form_EN.pdf)
+- [Form to be completed to receive a key to access the GIfMI facility](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_key_application_form_EN.pdf)
+- [GIfMI MRI Safety Checklist - Pre Scan](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_3T_pre_checklist_researchers_EN.pdf)
+- [GIfMI MRI Safety Checklist - Post Scan](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_3T_pre_checklist_EN.pdf)
