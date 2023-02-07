@@ -9,9 +9,9 @@ Info about the first steps to do when starting a new fMRI project:
 
 #### Once your experimental design is almost ready, it would be good to present it to our fMRI community to get feedbacks and suggestions about it. 
  
-```diff
-@@ You find in the current repository the template for such presentation (both in .pptx and in .key formats)@@
-```
+<p align="center">
+__You can find in the current repository the template for such presentation (both in .pptx and in .key formats)__
+</p>
 
 The format of these presentations should be:
 - a short introduction of your experimental hypothesis and questions you want to address
@@ -62,10 +62,8 @@ How to book the scanning time? Here you find detailed explanations: http://gifmi
 
 ### *Practical info, forms and manuals for MRI scanning at GIfMI*
 
-<p align="center">
-// Manual for users of GIfMI facility with many detailed info on participant positioning, data acquisition, data transfering: READ IT BEFORE STARTING YOUR FIRST MRI EXPERIMENT!! [http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_MRI%20user%20manual_BASIC_SiemensPrisma_EN.pdf] 
-</p>
 
+- __Manual for users of GIfMI facility with many detailed info on participant positioning, data acquisition, data transfering: *READ IT BEFORE STARTING YOUR FIRST MRI EXPERIMENT!!* [http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_MRI%20user%20manual_BASIC_SiemensPrisma_EN.pdf]__
 - Description of the use of the available audio systems: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_audio_systems_EN.pdf
 - Tutorial on exporting protocol parameters to a pdf file: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_printing_protocols_EN.pdf
 - Form to be completed to receive a badge to access the GIfMI facility: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_badge_application_form_EN.pdf
