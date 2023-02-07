@@ -10,7 +10,7 @@ Info about the first steps to do when starting a new fMRI project:
 #### Once your experimental design is almost ready, it would be good to present it to our fMRI community to get feedbacks and suggestions about it. 
  
 <p align="center">
-__You can find in the current repository the template for such presentation (both in .pptx and in .key formats)__
+**You can find in the current repository the template for such presentation (both in .pptx and in .key formats)**
 </p>
 
 The format of these presentations should be:
