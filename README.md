@@ -35,11 +35,25 @@ This can be done through the Hiruz website:
 
 
 ---
-## Aquire data at GIfMI
-#### There are several steps in order to acquire MRI data 
-   - MRI Safety Course (contact the GIfMI research assistant Stephanie Bogaert - Stephanie.Bogaert@UZGent.be)
-   - Create  a user account on the GIfMI website (find info here: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_user_account_EN.pdf)
-   - Get the GSB Number for your project (used for all comunication and booking);
-   - Submit the GIfMI Study Proposal Form to the Site Menager Pieter Vandemaele (piloting a study is allowed at this stage). Find the form here: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_study_proposal_form_EN.pdf
-   - Book your slot for Technical test and protocol tuning (contact the GIfMI site menager Pieter Vandemaele - Pieter.Vandemaele@UGent.be);
-   - Book your sccanning time according to the GIfMI booking Policy [http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_booking_policy_EN.pdf]
+## Aquire data at GIfMI: several steps
+
+####  MRI Safety Course (contact the GIfMI research assistant Stephanie Bogaert - Stephanie.Bogaert@UZGent.be)
+This is a mandatory course to learn which are the risks in the magnetic resonance environment and how to avoid them.
+Here is a guidance paper on MR safe practices: http://gifmi.ugent.be/drupal/system/files/documents/Greenberg_et_al_JMRI_2019.pdf
+
+#### Create  a user account on the GIfMI website 
+You can find info on how to create your GIfMI account here: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_user_account_EN.pdf
+
+#### Submit the GIfMI Study Proposal Form to the Site Menager 
+The GIfMI site manager is Pieter Vandemaele (Pieter.Vandemaele@UGent.be).
+You can find the Study Proposal Form here: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_study_proposal_form_EN.pdf
+After the acceptance of your study proposal you will get a GSB number for your project (used for all comunication and booking). 
+
+#### Book your slot for Technical test and protocol tuning 
+Contact the GIfMI site menager Pieter Vandemaele - Pieter.Vandemaele@UGent.be to book your 2h slot;
+During this time (free of charge) Pieter Vandemaele will set your scanning protocol and will help you with all the technical test (trigger, button box, etc..)  
+
+#### Book your scanning time 
+Here you can find the GIfMI booking Policy [http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_booking_policy_EN.pdf]
+The last section (Rates per reserved hours) of this document is not up to date. The scanning price is going to increase soon: more detailed info will come soon!
+How to book the scanning time? Here you find detailed explanations: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_booking_manual_EN.pdf
