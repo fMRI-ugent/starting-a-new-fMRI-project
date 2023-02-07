@@ -17,7 +17,7 @@ The format of these presentations should be:
 
 for a total length of 15/20 minutes.
 
-Having feedback and suggestions from other fMRI experts at this early stage of your experiment will help you to improve your design before the MRI acquisition starts and to decrease the possibility of regretting your choices once you will be analysing your data or writing your papers! 
+Having feedback and suggestions from other fMRI experts at this early stage of your experiment will help you improve your design before the MRI acquisition starts and decrease the possibility of regretting your choices once you will be analysing your data or writing your papers! 
  
 Contact the fMRI support postdoc Stefania Mattioni (stefania.mattioni@ugent.be), to book a slot for your presentation. 
  
