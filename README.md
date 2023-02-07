@@ -64,7 +64,7 @@ How to book the scanning time? Here you find detailed explanations: http://gifmi
 ### *Practical info, forms and manuals for MRI scanning at GIfMI*
 
 
-- __[Manual](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_MRI%20user%20manual_BASIC_SiemensPrisma_EN.pdf) for users of GIfMI facility with many detailed info on participant positioning, data acquisition, data transfering: *READ IT BEFORE STARTING YOUR FIRST MRI EXPERIMENT!!* __
+- __[Manual](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_MRI%20user%20manual_BASIC_SiemensPrisma_EN.pdf) for users of GIfMI facility with many detailed info on participant positioning, data acquisition, data transfering: *READ IT BEFORE STARTING YOUR FIRST MRI EXPERIMENT!!*__
 - [Description of the use of the available audio systems](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_audio_systems_EN.pdf)
 - [Tutorial on exporting protocol parameters to a pdf file](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_printing_protocols_EN.pdf)
 - [Form to be completed to receive a badge to access the GIfMI facility](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_badge_application_form_EN.pdf)
