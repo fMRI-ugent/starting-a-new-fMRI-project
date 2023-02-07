@@ -37,11 +37,12 @@ This can be done through the Hiruz website:
 ---
 ## Aquire data at GIfMI: several steps
 
-###  MRI Safety Course (contact the GIfMI research assistant Stephanie Bogaert - Stephanie.Bogaert@UZGent.be)
+###  **MRI Safety Course**
+Contact the GIfMI research assistant Stephanie Bogaert - Stephanie.Bogaert@UZGent.be
 This is a mandatory course to learn which are the risks in the magnetic resonance environment and how to avoid them.
 Here is a guidance paper on MR safe practices: http://gifmi.ugent.be/drupal/system/files/documents/Greenberg_et_al_JMRI_2019.pdf
 
-### Create  a user account on the GIfMI website 
+### *Create  a user account on the GIfMI website* 
 You can find info on how to create your GIfMI account here: http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_user_account_EN.pdf
 
 ### Submit the GIfMI Study Proposal Form to the Site Menager 
