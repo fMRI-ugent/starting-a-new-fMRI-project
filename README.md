@@ -72,9 +72,10 @@ How to book the scanning time? Here you find detailed explanations: http://gifmi
 - [GIfMI MRI Safety Checklist - Post Scan](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_3T_pre_checklist_EN.pdf)
 
 ### *Scan price at GIfMI* 
-#### Due to ongoing changes a final decision on the scanning price from 2023 onwards is not yet known
+#### Due to ongoing changes a final decision on the scanning price from 2023 onwards is not yet known.
 
 Here the last news from GIfMI:
+
 *The Financial Department of Ghent University (DFIN) has imposed on GIfMI management that the inflation index has to be applied on scan prices. The inflation index for this year is set at 10.63%. All scan hours from 1/1/2023 onward will be billed accordingly, i.e. 2022 scan price * 1.1063.*
  
 *UPDATE ON CORE FACILITIES*
