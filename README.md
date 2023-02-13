@@ -48,7 +48,7 @@ This training consists of 2 parts (both mandatory):
 
 **YOU ALREADY FOLLOWED THE SAFETY COURSE IN THE PAST. SHOULD YOU TAKE IT AGAIN FOR YOUR NEW MRI STUDY? Here the general rules:**
 1. Anybody who wants to work in the facility has to follow the safety training initially;
-2. If you have participated in a training at GIfMI for a previous study and you have subsequently worked in the facility (i.e. you participated in the scanning procedure of an experiment), you don't need to follow the on site training again. If it has been more than a year, it is strongly recommend to follow the e-learning again.
+2. If you have participated in a training at GIfMI for a previous study and you have subsequently worked in the facility (i.e. you participated in the scanning procedure of an experiment), you don't need to follow the on site training again. If it has been more than a year, it is strongly recommend to follow the e-learning again. Ask Stefania Mattioni (stefania.mattioni@ugent.be for the e-learning course).
 3. If you followed the training in the past (e.g. one year ago) but the project never started, you never gained experience with working in the facility --> you need to follow the training (both e-learning and on site) again.
 
 
