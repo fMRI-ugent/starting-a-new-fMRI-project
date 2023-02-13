@@ -40,9 +40,24 @@ This can be done through the Hiruz website:
 ##### IMPORTANT: you need ethical approval to start the data acquisition procedure at GIfMI!
 
 ###  *MRI Safety Course*
-Contact the GIfMI research assistant Stephanie Bogaert - Stephanie.Bogaert@UZGent.be
+
 This is a mandatory course to learn which are the risks in the magnetic resonance environment and how to avoid them.
-Here is a [guidance paper on MR safe practices](http://gifmi.ugent.be/drupal/system/files/documents/Greenberg_et_al_JMRI_2019.pdf)
+This training consists of 2 parts (both mandatory): 
+1. 60min e-learning course to follow online
+2. on site illustration
+
+**YOU ALREADY FOLLOWED THE SAFETY COURSE IN THE PAST. SHOULD YOU TAKE IT AGAIN FOR YOUR NEW MRI STUDY? Here the general rules:**
+1. Anybody who wants to work in the facility has to follow the safety training initially;
+2. If you have participated in a training at GIfMI for a previous study and you have subsequently worked in the facility (i.e. you participated in the scanning procedure of an experiment), you don't need to follow the on site training again. If it has been more than a year, it is strongly recommend to follow the e-learning again.
+3. If you followed the training in the past (e.g. one year ago) but the project never started, you never gainedd experience with working in the facility --> you need to follow the training (both e-learning and on site) again!
+
+
+Here is a [guidance paper on MR safe practices](http://gifmi.ugent.be/drupal/system/files/documents/Greenberg_et_al_JMRI_2019.pdf).
+**Contact the GIfMI research assistant Stephanie Bogaert - Stephanie.Bogaert@UZGent.be to know when is the next available safety course.**
+
+
+
+
 
 ### *Create  a user account on the GIfMI website* 
 You can find info on how to create your GIfMI account [here](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_user_account_EN.pdf).
