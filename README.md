@@ -51,16 +51,8 @@ This training consists of 2 parts (both mandatory):
 2. If you have participated in a training at GIfMI for a previous study and you have subsequently worked in the facility (i.e. you participated in the scanning procedure of an experiment), you don't need to follow the on site training again. If it has been more than a year, it is strongly recommend to follow the e-learning again. Ask Stefania Mattioni (stefania.mattioni@ugent.be for the e-learning course).
 3. If you followed the training in the past (e.g. one year ago) but the project never started, you never gained experience with working in the facility --> you need to follow the training (both e-learning and on site) again.
 
-
-Here is a [guidance paper on MR safe practices](http://gifmi.ugent.be/drupal/system/files/documents/Greenberg_et_al_JMRI_2019.pdf).
 **Contact the GIfMI research assistant Stephanie Bogaert - Stephanie.Bogaert@UZGent.be to know when is the next available safety course.**
 
-
-
-
-
-### *Create  a user account on the GIfMI website* 
-You can find info on how to create your GIfMI account [here](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_user_account_EN.pdf).
 
 ### *Submit the GIfMI Study Proposal Form to the Site Menager*
 The GIfMI site manager is Pieter Vandemaele (Pieter.Vandemaele@UGent.be).
@@ -78,12 +70,11 @@ How to book the scanning time? [Here you find detailed explanations](https://mri
 
 ### *Practical info, forms and manuals for MRI scanning at GIfMI*
 
-
-- __[Manual](http://gifmi.ugent.be/drupal/system/files/documents/GIfMI_MRI%20user%20manual_BASIC_SiemensPrisma_EN.pdf) for users of GIfMI facility with many detailed info on participant positioning, data acquisition, data transfering: *READ IT BEFORE STARTING YOUR FIRST MRI EXPERIMENT!!*__
+- __[Manual](https://mrighent.ugent.be/site/assets/doc/GIfMI_MRI_user_manual_BASIC_SiemensPrisma_EN.pdf) for users of GIfMI facility with many detailed info on participant positioning, data acquisition, data transfering: *READ IT BEFORE STARTING YOUR FIRST MRI EXPERIMENT!!*__
 - [Description of the use of the available audio systems](https://mrighent.ugent.be/site/assets/doc/GIfMI_audio_systems_EN.pdf)
 - [Form to be completed to receive a badge to access the GIfMI facility](https://mrighent.ugent.be/site/assets/doc/GIfMI_badge_application_form_EN.pdf)
 - [Form to be completed to receive a key to access the GIfMI facility](https://mrighent.ugent.be/site/assets/doc/GIfMI_key_application_form_EN.pdf)
-- - [GIfMI MRI Safety Checklist - Pre Scan - for researchers](https://mrighent.ugent.be/site/assets/doc/GIfMI_3T_pre_checklist_researchers_EN.pdf)
+- [GIfMI MRI Safety Checklist - Pre Scan - for researchers](https://mrighent.ugent.be/site/assets/doc/GIfMI_3T_pre_checklist_researchers_EN.pdf)
 - [GIfMI MRI Safety Checklist - Pre Scan - for participants](https://mrighent.ugent.be/site/assets/doc/GIfMI_3T_pre_checklist_EN.pdf)
 - [GIfMI MRI Safety Checklist - Post Scan - for participants](https://mrighent.ugent.be/site/assets/doc/GIfMI_3T_post_checklist_EN.pdf)
 
