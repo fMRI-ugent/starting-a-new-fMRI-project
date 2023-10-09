@@ -72,9 +72,9 @@ Contact the GIfMI site menager Pieter Vandemaele - Pieter.Vandemaele@UGent.be to
 During this time (free of charge) Pieter Vandemaele will set your scanning protocol and will help you with all the technical test (trigger, button box, etc..)  
 
 ### *Book your scanning time* 
-Here you can find the [GIfMI booking manual] [https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_manual_EN.pdf].
+Here you can find the [GIfMI booking policy](https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_policy_EN.pdf).
 The last section (Rates per reserved hours) of this document is not up to date. The scanning price is going to increase soon: more detailed info will come soon!
-How to book the scanning time? [Here you find detailed explanations](https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_policy_EN.pdf).
+How to book the scanning time? [Here you find detailed explanations](https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_manual_EN.pdf).
 
 ### *Practical info, forms and manuals for MRI scanning at GIfMI*
 
