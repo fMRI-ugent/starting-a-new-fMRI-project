@@ -36,7 +36,7 @@ This can be done through the Hiruz website:
 
 ---
 ## Aquire data at GIfMI: several steps
-#### All the manuals and documents listed below (and further info) can be find on the [GIfMI website](http://gifmi.ugent.be/).
+#### All the manuals and documents listed below (and further info) can be find on the [GIfMI website](https://mrighent.ugent.be/site/).
 ##### IMPORTANT: you need ethical approval to start the data acquisition procedure at GIfMI!
 
 ###  *MRI Safety Course*
