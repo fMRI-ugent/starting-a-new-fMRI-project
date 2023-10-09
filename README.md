@@ -79,5 +79,4 @@ How to book the scanning time? [Here you find detailed explanations](https://mri
 - [GIfMI MRI Safety Checklist - Post Scan - for participants](https://mrighent.ugent.be/site/assets/doc/GIfMI_3T_post_checklist_EN.pdf)
 
 ### *Scan price at GIfMI* 
-
-
+All the updated information about new prices and payment procedure are available in [this document](https://github.com/fMRI-ugent/starting-a-new-fMRI-project/blob/main/GIfMI_pricing_21Feb2023.pdf).
