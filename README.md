@@ -70,30 +70,30 @@ How to book the scanning time? [Here you find detailed explanations](https://mri
 
 ### *Highly reccomended videos to be watched before the start of scanning (especially for non-expert users*
 A highly recommended starter is the set of PEPConnect training videos.
-These are locatated [here](https://pep.siemens-info.com/en-us/magnetom-prisma-magnetom-prisma-fit) 
+These are locatated [here](https://pep.siemens-info.com/en-us/magnetom-prisma-magnetom-prisma-fit).
 You will need to create a login.
 The videos are organized in three main sections. The relevant ones are listed below:
  
 *System Overview*
-              - Dual Monitor Setup
-              - System Messages and Message History
-              - Scan UI Online self test (todo after having watched all other videos)
-Routine Workflow
-              - System start-up and Home-screen
-              - Patient Registration
-              - Program Selection
-              - Scheduler
-              - Exam Workflow
-              - Job Aids (PDF met info)
-Post-processing and Reading
-              - MR View&GO Basic Online Training
-              - MR View&GO Advancend Online Training
-              - Configuration
-              - Reset Layout Function
-              - 3D Reference Point
-              - Distribution
-              - Patient Browser
-              - MR View&GO Online Self-Assessment
+- Dual Monitor Setup
+- System Messages and Message History
+- Scan UI Online self test (todo after having watched all other videos)
+*Routine Workflow*
+- System start-up and Home-screen
+- Patient Registration
+- Program Selection
+- Scheduler
+- Exam Workflow
+- Job Aids (PDF met info)
+*Post-processing and Reading*
+- MR View&GO Basic Online Training
+- MR View&GO Advancend Online Training
+- Configuration
+- Reset Layout Function
+- 3D Reference Point
+- Distribution
+- Patient Browser
+- MR View&GO Online Self-Assessment
 
 ### *Practical info, forms and manuals for MRI scanning at GIfMI*
 - [Manual](https://mrighent.ugent.be/site/assets/doc/GIfMI_MRI_user_manual_BASIC_SiemensPrisma_EN.pdf) for users of GIfMI facility with many detailed info on participant positioning, data acquisition, data transfering: *READ IT BEFORE STARTING YOUR FIRST MRI EXPERIMENT!!*__
