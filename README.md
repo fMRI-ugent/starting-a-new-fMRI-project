@@ -78,6 +78,7 @@ The videos are organized in three main sections. The relevant ones are listed be
 - Dual Monitor Setup
 - System Messages and Message History
 - Scan UI Online self test (todo after having watched all other videos)
+  
 *Routine Workflow*
 - System start-up and Home-screen
 - Patient Registration
@@ -85,6 +86,7 @@ The videos are organized in three main sections. The relevant ones are listed be
 - Scheduler
 - Exam Workflow
 - Job Aids (PDF met info)
+
 *Post-processing and Reading*
 - MR View&GO Basic Online Training
 - MR View&GO Advancend Online Training
