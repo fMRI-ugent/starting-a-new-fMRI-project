@@ -65,7 +65,7 @@ During this time (free of charge) Pieter Vandemaele will set your scanning proto
 
 ### *Book your scanning time* 
 Here you can find the [GIfMI booking policy](https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_policy_EN.pdf).
-The last section (Rates per reserved hours) of this document is not up to date. The scanning price is going to increase soon: more detailed info will come soon!
+The last section (Rates per reserved hours) of this document is not up to date. The last info about scanning price is in the last sectioon of this page.
 How to book the scanning time? [Here you find detailed explanations](https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_manual_EN.pdf).
 
 ### *Highly reccomended videos to be watched before the start of scanning (especially for non-expert users*
