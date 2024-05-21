@@ -64,10 +64,10 @@ Contact the GIfMI site menager Pieter Vandemaele - Pieter.Vandemaele@UGent.be to
 During this time (free of charge) Pieter Vandemaele will set your scanning protocol and will help you with all the technical test (trigger, button box, etc..)  
 
 ### *Book your scanning time* 
-IMPORTANT: On April 1st 2024 the booking proccedure will change. More info coming soon!
+IMPORTANT: On June 1st 2024 the booking procedure will change. More info coming soon!
 
 Here you can find the [GIfMI booking policy](https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_policy_EN.pdf).
-The last section (Rates per reserved hours) of this document is not up to date. The last info about scanning price is in the last sectioon of this page.
+The last section (Rates per reserved hours) of this document is not up to date. The last info about scanning price is in the last section of this page.
 How to book the scanning time? [Here you find detailed explanations](https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_manual_EN.pdf).
 
 ### *Highly reccomended videos to be watched before the start of scanning (especially for non-expert users*
