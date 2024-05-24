@@ -63,12 +63,14 @@ After the acceptance of your study proposal you will get a GSB number for your p
 Contact the GIfMI site menager Pieter Vandemaele - Pieter.Vandemaele@UGent.be to book your 2h slot;
 During this time (free of charge) Pieter Vandemaele will set your scanning protocol and will help you with all the technical test (trigger, button box, etc..)  
 
-### *Book your scanning time* 
-IMPORTANT: On June 1st 2024 the booking procedure will change. More info coming soon!
+### *Book your scanning time - the new Core Facility Management Software (CFMS)* 
 
-Here you can find the [GIfMI booking policy](https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_policy_EN.pdf).
-The last section (Rates per reserved hours) of this document is not up to date. The last info about scanning price is in the last section of this page.
-How to book the scanning time? [Here you find detailed explanations](https://mrighent.ugent.be/site/assets/doc/GIfMI_booking_manual_EN.pdf).
+Starting from June 1st, 2024 every PI who wants to run (f)MRI experiments needs to be registered in the **CFMS system**. Then, all lab members who will be in charge of data acquisition need to be registered under their PI's lab and can reserve the facility with the approval of the PI. 
+
+You can find the detailed documentation on CFMS [here](https://mrighent.ugent.be/doc/cfms/). This website is continuously updated, so check back for additional information from time to time.
+The key information about the new booking/invoicing system has been summarized in this email by the GIfMI team. Please read it carefully!
+
+
 
 ### *Highly reccomended videos to be watched before the start of scanning (especially for non-expert users*
 A highly recommended starter is the set of PEPConnect training videos.
