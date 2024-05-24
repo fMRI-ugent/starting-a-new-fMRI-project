@@ -68,7 +68,7 @@ During this time (free of charge) Pieter Vandemaele will set your scanning proto
 Starting from June 1st, 2024 every PI who wants to run (f)MRI experiments needs to be registered in the **CFMS system**. Then, all lab members who will be in charge of data acquisition need to be registered under their PI's lab and can reserve the facility with the approval of the PI. 
 
 You can find the detailed documentation on CFMS [here](https://mrighent.ugent.be/doc/cfms/). This website is continuously updated, so check back for additional information from time to time.
-The key information about the new booking/invoicing system has been summarized in this email by the GIfMI team. Please read it carefully!
+The key information about the new booking/invoicing system has been summarized in [this email](GIfMI_email_on_CFMS.pdf) by the GIfMI team. Please read it carefully!
 
 
 
