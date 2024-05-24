@@ -33,6 +33,7 @@ This can be done through the Hiruz website:
 - Go to the [website of hiruz](https://hiruz.be/) and click the research portal, which is the new [platform for ethical approval](https://hiruz.be/research-portal/).
 - The info on how to register to the portal and get access are [here](https://uzgent.be/over-uz-gent/organisatie/commissie-voor-medische-ethiek/onderzoeksportaal/hoe-krijg-ik-toegang-tot-het-onderzoeksportaal) but only in dutch!!
 
+An example of a recent ethical submission document can be found here in English and here in Dutch.
 
 ---
 ## Aquire data at GIfMI: several steps
