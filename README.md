@@ -61,8 +61,8 @@ You can find the [Study Proposal Form here](https://mrighent.ugent.be/site/asset
 After the acceptance of your study proposal you will get a GSB number for your project (used for all comunication and booking). 
 
 ### *Book your slot for Technical test and protocol tuning* 
-Contact the GIfMI site menager Pieter Vandemaele - Pieter.Vandemaele@UGent.be to book your 2h slot;
-During this time (free of charge) Pieter Vandemaele will set your scanning protocol and will help you with all the technical test (trigger, button box, etc..)  
+Contact the GIfMI site menager Pieter Vandemaele - Pieter.Vandemaele@UGent.be to book a slot;
+During this time Pieter Vandemaele will set your scanning protocol and will help you with all the technical test (trigger, button box, etc..)  
 
 ### *Book your scanning time - the new Core Facility Management Software (CFMS)* 
 
