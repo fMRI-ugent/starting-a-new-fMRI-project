@@ -117,6 +117,6 @@ The price calculator and a PDF document with the current prices (2026) are updat
 
 ### *Newsletters from CORE GIfMI* 
 Here is the list of newsletters with important news and information from CORE GIfMI:
-- [Newsletter January 2026](https://github.com/fMRI-ugent/starting-a-new-fMRI-project/tree/e85c85763817555805e69549dbb4727e17926583/Newsletters/CORE GIfMI - Newsletter January 2026.pdf)
+- [Newsletter January 2026](https://github.com/fMRI-ugent/starting-a-new-fMRI-project/blob/8df99a4f1f3242a21c447ff2437ac15b05a289fb/Newsletters/COREGIfMI-NewsletterJanuary2026.pdf)  
   
 
