@@ -116,6 +116,6 @@ The videos are organized in three main sections. The relevant ones are listed be
 The price calculator and a PDF document with the current prices (2026) are updated and available on the [Rates & Hours](https://gifmi.ugent.be/en/rates-booking) page on the website. Please note that prices are subject to indexation (e.g. +3.5% effective from 01/01/2026).
 
 ### *Newsletters from CORE GIfMI* 
-Here you can find the list of Newsletters with important neews and information sent regularly by CORE GIfMI:
-- CORE GIfMI - Newsletter January 2026 
+Here is the list of newsletters with important news and information from CORE GIfMI:
+- Newsletter January 2026 
 
