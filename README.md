@@ -1,10 +1,7 @@
 # Starting-a-new-fMRI-project
-Info about the first steps to do when starting a new fMRI project: 
-- Get feedback on your design;
-- Ethical submission;
-- Acquire data at GIfMI (Ghent Institute for Functional and Metabolic Imaging).
 
 This is the list of sections you will find below on this page:
+
 - Presentation of your fMRI design to get useful feedback from the fMRI community (optional but recommended)  
 - Ethical submission (including recent examples of submitted documents)  
 - Aquire data at GIfMI: several steps  
