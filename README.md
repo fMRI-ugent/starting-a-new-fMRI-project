@@ -12,7 +12,7 @@ This is the list of sections you will find below on this page:
   - Highly reccomended videos to be watched before the start of scanning (especially for non-expert users)  
   - Practical info, forms and manuals for MRI scanning at GIfMI  
   - Scan price at GIfMI  
-  - Newsletters from CORE GIfMI
+  - List of Newsletters from CORE GIfMI (starting from January 2026)
   
 
 ---
