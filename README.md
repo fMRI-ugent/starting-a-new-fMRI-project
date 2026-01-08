@@ -112,6 +112,7 @@ The videos are organized in three main sections. The relevant ones are listed be
 - [GIfMI MRI Safety Checklist - Post Scan - for participants](https://mrighent.ugent.be/site/assets/doc/GIfMI_3T_post_checklist_EN.pdf)
 
 ### *Scan price at GIfMI* 
+<!-- All the updated information (Feb 2023) about new prices and payment procedure are available in [this document](https://github.com/fMRI-ugent/starting-a-new-fMRI-project/blob/main/GIfMI_pricing_21Feb2023.pdf).-->
 The price calculator and a PDF document with the current prices (2026) are updated and available on the [Rates & Hours](https://gifmi.ugent.be/en/rates-booking) page on the website.
 
-All the updated information about new prices and payment procedure are available in [this document](https://github.com/fMRI-ugent/starting-a-new-fMRI-project/blob/main/GIfMI_pricing_21Feb2023.pdf).
+
