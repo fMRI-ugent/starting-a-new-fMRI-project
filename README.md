@@ -117,5 +117,5 @@ The price calculator and a PDF document with the current prices (2026) are updat
 
 ### *Newsletters from CORE GIfMI* 
 Here is the list of newsletters with important news and information from CORE GIfMI:
-- Newsletter January 2026 
+- [Newsletter January 2026](Newsletters/CORE GIfMI - Newsletter January 2026.pdf)  
 
