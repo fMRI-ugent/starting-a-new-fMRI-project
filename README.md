@@ -4,6 +4,20 @@ Info about the first steps to do when starting a new fMRI project:
 - Ethical submission;
 - Acquire data at GIfMI (Ghent Institute for Functional and Metabolic Imaging).
 
+This is the list of sections you will find below on this page:
+- Presentation of your fMRI design to get useful feedback from the fMRI community (optional but recommended)  
+- Ethical submission (including recent examples of submitted documents)  
+- Aquire data at GIfMI: several steps  
+  - MRI Safety Course  
+  - Submit the GIfMI Study Proposal Form to the Site Menager  
+  - Book your slot for Technical test and protocol tuning  
+  - Book your scanning time - the new Core Facility Management Software (CFMS)  
+  - Highly reccomended videos to be watched before the start of scanning (especially for non-expert users)  
+  - Practical info, forms and manuals for MRI scanning at GIfMI  
+  - Scan price at GIfMI  
+  - Newsletters from CORE GIfMI
+  
+
 ---
 ## Presentation of your fMRI design to get useful feedback from the fMRI community (optional but recommended)
 
@@ -73,7 +87,7 @@ The key information about the use of the CFMS and the new booking/invoicing syst
 
 
 
-### *Highly reccomended videos to be watched before the start of scanning (especially for non-expert users*
+### *Highly reccomended videos to be watched before the start of scanning (especially for non-expert users)*
 A highly recommended starter is the set of PEPConnect training videos.
 These are locatated [here](https://pep.siemens-info.com/en-us/magnetom-prisma-magnetom-prisma-fit).
 You will need to create a login.
